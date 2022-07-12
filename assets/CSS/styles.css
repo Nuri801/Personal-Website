@@ -320,19 +320,37 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 80%;
 }
 
 .skills__css {
-  width: 85%;
-}
-
-.skills__js {
   width: 65%;
 }
 
+.skills__js {
+  width: 55%;
+}
+
 .skills__ux {
-  width: 85%;
+  width: 75%;
+}
+
+/* ===== LANGUAGES =====*/
+
+.skills__english{
+  width: 95%;
+}
+
+.skills__korean {
+  width: 70%;
+}
+
+.skills__uzbek {
+  width: 100%;
+}
+
+.skills__russian {
+  width: 30%;
 }
 
 .skills__img {
